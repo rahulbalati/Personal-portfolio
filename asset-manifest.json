@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.3c6b6c66.css",
+    "main.js": "/personal-portfolio/static/js/main.7f0fb730.js",
+    "static/media/hoc1.png": "/personal-portfolio/static/media/hoc1.a8d9dfbd9a39e0f90981.png",
+    "static/media/eccomerce.png": "/personal-portfolio/static/media/eccomerce.a24140d2a793a038cb68.png",
+    "static/media/bill.jpg": "/personal-portfolio/static/media/bill.42fbe1f75bc412663a0b.jpg",
+    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar1.png": "/personal-portfolio/static/media/sidebar1.d5bfb164c484a1e721e6.png",
+    "static/media/ecara.png": "/personal-portfolio/static/media/ecara.90766a1ccd97869b53cb.png",
+    "static/media/wheather.png": "/personal-portfolio/static/media/wheather.7531bb26e88eb0b0df57.png",
+    "static/media/boy.png": "/personal-portfolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/mark-zuckerberg.jpg": "/personal-portfolio/static/media/mark-zuckerberg.0150ef07d507849e4442.jpg",
+    "static/media/glassesimoji.png": "/personal-portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/sam.jpg": "/personal-portfolio/static/media/sam.f49ebd482ed6a159be30.jpg",
+    "static/media/sundar.jpg": "/personal-portfolio/static/media/sundar.ed4938e5891c2a375306.jpg",
+    "static/media/thumbup.png": "/personal-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/personal-portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/personal-portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/personal-portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/personal-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/personal-portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/personal-portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.3c6b6c66.css.map": "/personal-portfolio/static/css/main.3c6b6c66.css.map",
+    "main.7f0fb730.js.map": "/personal-portfolio/static/js/main.7f0fb730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6b6c66.css",
+    "static/js/main.7f0fb730.js"
+  ]
+}
