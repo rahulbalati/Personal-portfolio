@@ -2,10 +2,11 @@ import React, { useContext } from "react";
 import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
-import Sidebar from "../../img/sidebar.png";
-import Ecommerce from "../../img/ecommerce.png";
-import HOC from "../../img/hoc.png";
-import MusicApp from "../../img/musicapp.png";
+import Sidebar from "../../img/sidebar1.png";
+import Ecommerce from "../../img/eccomerce.png";
+import HOC from "../../img/hoc1.png";
+import MusicApp from "../../img/wheather.png";
+import ecara from "../../img/ecara.png";
 import { themeContext } from "../../Context";
 const Portfolio = () => {
   const theme = useContext(themeContext);
@@ -30,10 +31,13 @@ const Portfolio = () => {
           <img src={Ecommerce} alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={MusicApp} alt="" />
+          <img src={ecara} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={HOC} alt="" />
+        </SwiperSlide> 
+        <SwiperSlide>
+          <img src={MusicApp} alt="" />
         </SwiperSlide>
       </Swiper>
     </div>
